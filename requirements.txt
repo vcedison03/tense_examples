@@ -1,4 +1,4 @@
 streamlit
 requests
-deep-translator
 gtts
+deep-translator
